@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.H1-center {
+  text-align: center;
+  color: brown;
+
+}
+body {
+  background-color: cadetblue;
+
+}
+.filmHraderSection{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.studio:hover{
+  text-decoration: underline;
+  color: blue;
+}
+
+.navBar {
+  color: blue;
+}
+
